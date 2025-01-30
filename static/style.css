@@ -1,0 +1,23 @@
+/* selector por etquetas */
+h1 {
+color:palevioletred
+}
+
+h2 {
+    color: green;
+}
+
+header p {
+    color:brown;
+}
+
+/* selector por clase */
+
+.content {
+    color:rgb(66, 22, 106);
+}
+
+/* selector por id */
+#title2 {
+    color:tomato;
+}
